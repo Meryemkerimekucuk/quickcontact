@@ -1,30 +1,28 @@
 # 📱 QuickContact: Akıllı Dijital Kartvizit & QR Oluşturucu
 
-QuickContact, kullanıcıların iletişim bilgilerini ve sosyal medya hesaplarını hızlıca bir **VCF (vCard)** dosyasına dönüştürmelerini sağlayan, modern ve mobil öncelikli bir web uygulamasıdır. Oluşturulan QR kod sayesinde rehbere eklenme sürecini saniyelere indirir.
+QuickContact; profesyonellerin, girişimcilerin ve sosyal medya kullanıcılarının iletişim bilgilerini saniyeler içinde dijital bir karta (vCard) dönüştürmesini sağlayan, mobil öncelikli bir web uygulamasıdır. 
 
-## 🚀 Projenin Öne Çıkan Özellikleri
+## 🚀 Öne Çıkan Özellikler
 
-* **Global Telefon Desteği:** Ülke kodlarının yer aldığı özel bir seçici (picker) ile uluslararası standartlara uygun telefon numarası girişi.
-* **Geniş Sosyal Medya Entegrasyonu:** En çok kullanılan **43 farklı sosyal medya platformu** (LinkedIn, GitHub, Instagram, X, vb.) arasından seçim yapabilme ve profil linklerini dinamik olarak ekleme.
-* **Anlık QR Kod:** Form verileri değiştiğinde anında güncellenen ve taranmaya hazır QR kod önizlemesi.
-* **VCF Aktarımı:** Standart rehber formatına tam uyumlu `.vcf` dosyası oluşturma.
-* **Responsive Tasarım:** Tailwind CSS ile hem masaüstü hem de mobil cihazlarda kusursuz görünüm.
+* **Zengin İletişim Formu:** Ad-Soyad, E-posta, Telefon, Şirket ve Unvan gibi temel profesyonel alanlar.
+* **Global Telefon Entegrasyonu:** Tüm dünya ülke kodlarını destekleyen seçici (picker) ile hatasız telefon numarası girişi.
+* **Devasa Sosyal Medya Desteği:** 43 farklı sosyal medya platformu (LinkedIn, Instagram, GitHub, X vb.) arasından seçim yapabilme ve profil linklerini esnekçe ekleme.
+* **Gelişmiş İndirme Seçenekleri:** * 📇 **VCF:** Kişi dosyasını doğrudan telefon rehberine aktarmak için.
+    * 🖼️ **PNG & JPG:** QR kodu yüksek kalitede görsel olarak kaydetmek ve paylaşmak için.
+* **Anlık Dinamik Önizleme:** Veriler girildikçe eş zamanlı olarak güncellenen QR kod mekanizması.
+* **Minimalist & Modern UI:** Tailwind CSS ile tasarlanmış, her alanda doldurma zorunluluğu olmayan özgür bir kullanıcı deneyimi.
 
 ## 🛠️ Teknik Altyapı
 
-* **Framework:** React.js (Vite ile güçlendirildi)
+* **Framework:** React.js (Vite)
 * **Styling:** Tailwind CSS
-* **Mantık (Logic):** Dinamik Dropdown yönetimi, Country Code entegrasyonu ve QR Generation.
+* **İkonlar:** Heroicons & Simple Icons
 * **Yayın (Deployment):** Vercel
 
-## 📂 Dosya Yapısı ve Kurulum
+## 📂 Kurulum
 
-Eğer bu projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
-
-1. Depoyu indirin: `git clone https://github.com/kullaniciadin/quickcontact.git`
-2. Klasöre girin: `cd quickcontact`
-3. Bağımlılıkları yükleyin: `npm install`
-4. Başlatın: `npm run dev`
-
----
-**Geliştiren:** [Meryem]* 🚀
+```bash
+git clone [https://github.com/kullaniciadin/quickcontact.git](https://github.com/kullaniciadin/quickcontact.git)
+cd quickcontact
+npm install
+npm run dev
