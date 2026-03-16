@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/icons.ts","./src/main.tsx","./src/components/contactform.tsx","./src/components/downloadbuttons.tsx","./src/components/qrpreview.tsx","./src/components/socialicon.tsx","./src/constants/countrycodes.ts","./src/constants/socialplatforms.ts","./src/types/contact.ts","./src/utils/phoneformat.ts","./src/utils/vcard.ts"],"version":"5.6.3"}
