@@ -1,5 +1,5 @@
 export const COUNTRY_CODES: { code: string; label: string }[] = [
- [
+ 
   { "code": "+93", "label": "Afganistan" },
   { "code": "+49", "label": "Almanya" },
   { "code": "+1", "label": "Amerika Birleşik Devletleri" },
@@ -217,4 +217,4 @@ export const COUNTRY_CODES: { code: string; label: string }[] = [
   { "code": "+260", "label": "Zambiya" },
   { "code": "+263", "label": "Zimbabve" }
 ]
-]
+
