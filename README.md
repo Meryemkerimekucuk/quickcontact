@@ -6,7 +6,7 @@ QuickContact; profesyonellerin, girişimcilerin ve sosyal medya kullanıcıları
 
 * **Zengin İletişim Formu:** Ad-Soyad, E-posta, Telefon, Şirket ve Unvan gibi temel profesyonel alanlar.
 * **Global Telefon Entegrasyonu:** Tüm dünya ülke kodlarını destekleyen seçici (picker) ile hatasız telefon numarası girişi.
-* **Devasa Sosyal Medya Desteği:** 43 farklı sosyal medya platformu (LinkedIn, Instagram, GitHub, X vb.) arasından seçim yapabilme ve profil linklerini esnekçe ekleme.
+* **Devasa Sosyal Medya Desteği:** 41 farklı sosyal medya platformu (LinkedIn, Instagram, GitHub, X vb.) arasından seçim yapabilme ve profil linklerini esnekçe ekleme.
 * **Gelişmiş İndirme Seçenekleri:** * 📇 **VCF:** Kişi dosyasını doğrudan telefon rehberine aktarmak için.
     * 🖼️ **PNG & JPG:** QR kodu yüksek kalitede görsel olarak kaydetmek ve paylaşmak için.
 * **Anlık Dinamik Önizleme:** Veriler girildikçe eş zamanlı olarak güncellenen QR kod mekanizması.
